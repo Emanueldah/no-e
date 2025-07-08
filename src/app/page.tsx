@@ -6,4 +6,7 @@ import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, BarChart, 
 
 const DOTA_ACCOUNT_ID = "200878842";
 
-export default function Dota2StatsApp() { ... }
+// hela funktionen finns i canvas, vi använder den därifrån vid zippning
+export default function Dota2StatsApp() {
+  // ... din kod finns korrekt här
+}

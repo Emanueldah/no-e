@@ -11,4 +11,4 @@ npm run dev
 
 ## Deploy
 
-Ladda upp till GitHub och deploya gratis via https://vercel.com
+Ladda upp till GitHub och deploya via https://vercel.com
